@@ -22,21 +22,4 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Laba_1.h">
-      <Filter>Исходные файлы\Hfile</Filter>
-    </ClInclude>
-    <ClInclude Include="Laba_2.h">
-      <Filter>Исходные файлы\Hfile</Filter>
-    </ClInclude>
-    <ClInclude Include="Laba_4.h">
-      <Filter>Исходные файлы\Hfile</Filter>
-    </ClInclude>
-    <ClInclude Include="Laba_3.h">
-      <Filter>Исходные файлы\Hfile</Filter>
-    </ClInclude>
-    <ClInclude Include="Laba_5.h">
-      <Filter>Исходные файлы\Hfile</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>

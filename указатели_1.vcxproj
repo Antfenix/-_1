@@ -141,13 +141,6 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Laba_1.h" />
-    <ClInclude Include="Laba_2.h" />
-    <ClInclude Include="Laba_3.h" />
-    <ClInclude Include="Laba_4.h" />
-    <ClInclude Include="Laba_5.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
